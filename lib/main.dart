@@ -39,6 +39,7 @@ class _MyHomePageState extends State<MyHomePage> {
             ListItem(assetImagePath: "assets/one.png"),
             ListItem(assetImagePath: "assets/two.png"),
             ListItem(assetImagePath: "assets/four.png"),
+            ListItem(assetImagePath: "assets/five.png"),
           ],
         ),
       ),
